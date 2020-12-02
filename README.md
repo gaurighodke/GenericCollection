@@ -1,1 +1,1 @@
-# GenericCollection
+# Generic Stack
